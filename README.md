@@ -1,2 +1,2 @@
 # machine-learning-with-python-cookbook
-most comprehensive recipies
+most comprehensive recipes
